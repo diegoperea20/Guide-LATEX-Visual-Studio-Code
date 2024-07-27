@@ -1,0 +1,83 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global/global}
+    \entry{miktex}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=fd5887b4a77bfdb547c0047a92f8e439}{%
+           family={MiKTeX},
+           familyi={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{fd5887b4a77bfdb547c0047a92f8e439}
+      \strng{fullhash}{fd5887b4a77bfdb547c0047a92f8e439}
+      \strng{fullhashraw}{fd5887b4a77bfdb547c0047a92f8e439}
+      \strng{bibnamehash}{fd5887b4a77bfdb547c0047a92f8e439}
+      \strng{authorbibnamehash}{fd5887b4a77bfdb547c0047a92f8e439}
+      \strng{authornamehash}{fd5887b4a77bfdb547c0047a92f8e439}
+      \strng{authorfullhash}{fd5887b4a77bfdb547c0047a92f8e439}
+      \strng{authorfullhashraw}{fd5887b4a77bfdb547c0047a92f8e439}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Accessed: 2024-07-26}
+      \field{title}{MiKTeX}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://miktex.org/download
+      \endverb
+      \verb{url}
+      \verb https://miktex.org/download
+      \endverb
+    \endentry
+    \entry{strawberryperl}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=4228aa94c6e79b6b225242e8db2a6051}{%
+           family={Perl},
+           familyi={P\bibinitperiod},
+           given={Strawberry},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{4228aa94c6e79b6b225242e8db2a6051}
+      \strng{fullhash}{4228aa94c6e79b6b225242e8db2a6051}
+      \strng{fullhashraw}{4228aa94c6e79b6b225242e8db2a6051}
+      \strng{bibnamehash}{4228aa94c6e79b6b225242e8db2a6051}
+      \strng{authorbibnamehash}{4228aa94c6e79b6b225242e8db2a6051}
+      \strng{authornamehash}{4228aa94c6e79b6b225242e8db2a6051}
+      \strng{authorfullhash}{4228aa94c6e79b6b225242e8db2a6051}
+      \strng{authorfullhashraw}{4228aa94c6e79b6b225242e8db2a6051}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Accessed: 2024-07-26}
+      \field{title}{Strawberry Perl}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://strawberryperl.com/
+      \endverb
+      \verb{url}
+      \verb https://strawberryperl.com/
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
